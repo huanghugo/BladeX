@@ -1,6 +1,8 @@
-# BladeX
+# BladeX [![Build Status](https://travis-ci.org/huanghugo/BladeX.svg)](https://travis-ci.org/huanghugo/BladeX)
 
-A theme for [Ghost](http://github.com/tryghost/ghost/).
+A theme for [Ghost](http://github.com/tryghost/ghost/)。
+####[-->Realease Page](https://github.com/huanghugo/BladeX/releases)
+####[-->Download Lastest ](https://github.com/huanghugo/BladeX/archive/master.zip)
 
 
 ## Copyright & License
